@@ -78,3 +78,4 @@ Photos belong to a date and store their Supabase Storage path and optional capti
 - quotes archive
 - anniversary countdown
 - export all memories as a PDF
+
